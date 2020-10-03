@@ -27,7 +27,7 @@
 - [How to build logic for programming? Zeroth law of coding.](https://code.withshivam.com/how-to-build-logic-for-programming/)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
