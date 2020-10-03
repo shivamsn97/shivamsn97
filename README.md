@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I think I have too much secrets.**
 
+### Some Projects
+- Check out [StuffFreeBot](https://telegram.dog/stufffreebot) on Telegram.
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Which coding language to start with? C++ or Python?](https://code.withshivam.com/which-coding-language-to-start-with/)
