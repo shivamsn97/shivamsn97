@@ -23,6 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which coding language to start with? C++ or Python?](https://code.withshivam.com/which-coding-language-to-start-with/)
+- [How to build logic for programming? Zeroth law of coding.](https://code.withshivam.com/how-to-build-logic-for-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
