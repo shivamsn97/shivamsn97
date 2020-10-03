@@ -27,6 +27,10 @@
 - [How to build logic for programming? Zeroth law of coding.](https://code.withshivam.com/how-to-build-logic-for-programming/)
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/shivamsn97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shivamsn97" height="30" width="40" /></a>
