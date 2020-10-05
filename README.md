@@ -45,7 +45,7 @@
 <a href="https://stackoverflow.com/users/shivamsn97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shivamsn97" height="30" width="40" /></a>
 <a href="https://fb.com/shivamsn97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shivamsn97" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamsn97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivamsn97" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with shivam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="code with shivam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCqQyv77ScE65ukTMAanYyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="code with shivam" height="30" width="40" /></a>
 <a href="/https://code.withshivam.com/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://code.withshivam.com/feed/" height="30" width="40" /></a>
 </p>
 
