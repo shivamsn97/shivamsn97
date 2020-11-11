@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [College Predictor](https://github.com/shivamsn97/CollegePredictor)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivamsn97](https://github.com/shivamsn97)
+- 👨‍💻 All of my projects are available at [https://github.com/shivamsn97?tab=repositories](https://github.com/shivamsn97?tab=repositories)
 
 - 📝 I regulary write articles on [https://code.withshivam.com](https://code.withshivam.com)
 
