@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsn97" alt="shivamsn97" /> </p>
 
-- 🔭 I’m currently working on **Secret Project ;)**
+- 🔭 I’m currently working on **Secret Project ;) as freelancer**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Anything Meaningful**
 
-- 🤝 I’m looking for help with [College Predictor](https://github.com/shivamsn97/CollegePredictor)
-
+- 🤝 I’m looking for help with **Life**
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsn97?tab=repositories](https://github.com/shivamsn97?tab=repositories)
 
-- 📝 I regulary write articles on [https://code.withshivam.com](https://code.withshivam.com)
+- 📝 ~~I regulary write articles on [https://code.withshivam.com](https://code.withshivam.com)~~ (Server Dead 😔)
 
 - 💬 Ask me about **Python, python-telegram-bot framework**
 
