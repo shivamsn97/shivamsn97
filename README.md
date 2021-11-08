@@ -31,7 +31,7 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Shivam Saini for I'm writing a python bot with python3 and python-telegram-bot, and i want it to display "is typing..." before sending a message](https://stackoverflow.com/questions/64011429/im-writing-a-python-bot-with-python3-and-python-telegram-bot-and-i-want-it-to/64011860#64011860)
+- [Answer by Shivam Saini for I&#39;m writing a python bot with python3 and python-telegram-bot, and i want it to display &quot;is typing...&quot; before sending a message](https://stackoverflow.com/questions/64011429/im-writing-a-python-bot-with-python3-and-python-telegram-bot-and-i-want-it-to/64011860#64011860)
 - [Answer by Shivam Saini for My program uses IMDBpy is there a way i can use this program without manually installing IMDBpy before using it?](https://stackoverflow.com/questions/63619815/my-program-uses-imdbpy-is-there-a-way-i-can-use-this-program-without-manually-in/63761994#63761994)
 - [Answer by Shivam Saini for the API is returning an old value, is it possible to improve this process?](https://stackoverflow.com/questions/61666162/the-api-is-returning-an-old-value-is-it-possible-to-improve-this-process/61666269#61666269)
 <!-- STACKOVERFLOW:END -->
