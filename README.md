@@ -3,31 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsn97" alt="shivamsn97" /> </p>
 
-- 🔭 I’m currently working on **Secret Project ;) as freelancer**
+- 🔭 I’m currently working on **building life**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Anything Meaningful**
+- 👯 I’m looking to collaborate on **Automations**
 
 - 🤝 I’m looking for help with **Life**
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsn97?tab=repositories](https://github.com/shivamsn97?tab=repositories)
 
 - 📝 ~~I regulary write articles on [https://code.withshivam.com](https://code.withshivam.com)~~ (Server Dead 😔)
 
-- 💬 Ask me about **Python, python-telegram-bot framework**
+- 💬 Ask me about **Python, python-telegram-bot framework, C&C++**
 
 - 📫 How to reach me **shivamsn97@gmail.com**
 
-- ⚡ Fun fact **I think I have too much secrets.**
+- ⚡ Fun fact **I don't know many languages.**
 
 ### Some Projects
 - Check out [StuffFreeBot](https://telegram.dog/stufffreebot) on Telegram.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Which coding language to start with? C++ or Python?](https://code.withshivam.com/which-coding-language-to-start-with/)
-- [How to build logic for programming? Zeroth law of coding.](https://code.withshivam.com/how-to-build-logic-for-programming/)
-<!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
