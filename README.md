@@ -5,11 +5,14 @@
 
 - 🔭 I’m currently working on **building life**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Enginnering**
 
-- 👯 I’m looking to collaborate on **Automations**
+- 👯 I’m looking to collaborate on [**Youtube Dislike Count**](https://github.com/shivamsn97/YoutubeDislikeCount)
 
-- 🤝 I’m looking for help with **Life**
+- 🤝 I’m looking for help in geeting **referral for some great companies**.
+
+- 📃 You can find my resume at: https://drive.google.com/file/d/1uDWJ2xUqcxGXxbbSpM7kus0nbLRaeR2C/view?usp=drivesdk
+
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsn97?tab=repositories](https://github.com/shivamsn97?tab=repositories)
 
 - 📝 ~~I regulary write articles on [https://code.withshivam.com](https://code.withshivam.com)~~ (Server Dead 😔)
@@ -22,6 +25,7 @@
 
 ### Some Projects
 - Check out [StuffFreeBot](https://telegram.dog/stufffreebot) on Telegram.
+- Check out [my blog on how to get started with programming](https://shivamsn97.medium.com/how-to-build-logic-for-programming-zeroth-law-of-coding-withshivam-eca93ee3bae)
 
 
 ### StackOverflow Activity
