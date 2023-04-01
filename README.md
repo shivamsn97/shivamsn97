@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help in geeting **referral for some great companies**.
 
-- 📃 You can find my resume at: [https://drive.google.com/file/d/1uDWJ2xUqcxGXxbbSpM7kus0nbLRaeR2C/view?usp=drivesdk](https://drive.google.com/file/d/1lIJzS9urfZE5VGlpZyf4fi2OJs5o3maJ/view?usp=share_link)
+- 📃 You can find my resume at: [https://drive.google.com/file/d/1rKtHiIbnQMJEFBcf2aypVjdmWlKT6SC7/view?usp=share_link](https://drive.google.com/file/d/1rKtHiIbnQMJEFBcf2aypVjdmWlKT6SC7/view?usp=share_link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsn97?tab=repositories](https://github.com/shivamsn97?tab=repositories)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shivamsn97@gmail.com**
 
-- ⚡ Fun fact **I don't know many languages.**
+- ⚡ **I mean the Kali Linux quote a lot:** The quieter you become, the more you're able to hear.
 
 ### Some Projects
 - Check out [StuffFreeBot](https://telegram.dog/stufffreebot) on Telegram.
