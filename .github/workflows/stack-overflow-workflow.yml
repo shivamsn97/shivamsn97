@@ -1,8 +1,8 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    # Runs every 7 days
+    - cron: '0 0 */7 * *'
 
 jobs:
   update-readme-with-stack-overflow:
