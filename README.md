@@ -11,7 +11,7 @@
 ### About me
 
 - 💼 Software Developer (Python) at **[rtCamp](https://rtcamp.com)**
-- 🧪 Creator of **[Pyxle](https://pyxle.dev)** — an open-source full-stack Python + React framework
+- 🧪 Creator of **[Pyxle](https://pyxle.dev)** — a Python-first full-stack web framework
 - 📍 Dehradun, India
 - 📫 shivamsn97@gmail.com
 
@@ -19,7 +19,9 @@
 
 ### Pyxle
 
-A batteries-included full-stack framework — Python on the back, React on the front, one mental model. Ship modern apps without juggling a separate API layer and SPA build pipeline.
+**Python + React in one file.** Async server loaders, React UI, and server actions live together in a single `.pyxl` file — with SSR, file-based routing, and Vite-powered HMR built in.
+
+If you want Next.js-style DX without leaving Python on the server, that's the wedge.
 
 → [**pyxle.dev**](https://pyxle.dev)
 
@@ -27,16 +29,19 @@ A batteries-included full-stack framework — Python on the back, React on the f
 
 ### Stack
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ### Connect
 
-<p align="left"> <a href="https://linkedin.com/in/shivamsn97" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"/> </a> <a href="https://twitter.com/shivamsn97" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40"/> </a> <a href="https://stackoverflow.com/users/shivamsn97" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40"/> </a> <a href="https://dev.to/shivamsn97" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsn97) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shivamsn97) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/shivamsn97) [![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shivamsn97)
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamsn97&show_icons=true" alt="github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsn97&layout=compact" alt="top languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamsn97&show_icons=true&hide_border=true&cache_seconds=86400&theme=transparent" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsn97&layout=compact&hide_border=true&cache_seconds=86400&theme=transparent" alt="Top languages" />
+</p>
 
 <p align="center"><i>The quieter you become, the more you're able to hear.</i></p>
